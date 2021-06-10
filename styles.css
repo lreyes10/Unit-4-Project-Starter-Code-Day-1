@@ -1,0 +1,34 @@
+img {
+    height: 200px;   
+    width:200px;
+    display:flex;
+    border:6px solid black;
+}
+.paragraph1{
+    background-color:#33FCFF;
+    padding:5px ;
+    border:6px solid black;
+   
+}
+.paragraph2{
+    background-color:#33FFF9;
+    padding:5px ;
+    border:6px solid white;
+}
+.paragraph3{
+    background-color:#33C1FF;
+    padding:5px ;
+    border:6px solid white;
+}
+
+.paragraph4{
+    background-color:#3396FF;
+    padding:5px ;
+    border:6px solid white;
+}
+
+.paragraph5{
+    background-color:#3364FF;
+    padding:5px ;
+    border:6px solid white;
+}
